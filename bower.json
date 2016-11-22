@@ -1,0 +1,25 @@
+{
+  "name": "walkingdeadapp",
+  "homepage": "https://github.com/cedre070/walkingdeadapp",
+  "authors": [
+    "Your Name <you@example.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.8",
+    "bootstrap": "^3.3.7",
+    "animate.css": "animate-css#^3.5.2",
+    "aos": "^2.1.1",
+    "material-design-icons": "^3.0.1",
+    "material-design-lite": "^1.2.1"
+  }
+}

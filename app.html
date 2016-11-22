@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="bower_components/material-design-lite/material.min.css">
+    <link rel="stylesheet" href="bower_components/materialize/dist/css/materialize.min.css">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+
+  </head>
+  <div class="container">
+
+  </div>
+  <body ng-app="appWalking">
+
+<section ng-controller="WalksCtrl">
+
+  <h3>WALKING DEAD</h3>
+  <hr />
+
+
+
+
+
+  <ul>
+  <li ng-repeat="donnee in donnees">
+
+<div class="col-md-4">
+      <span class="fa fa-times"></span>
+    </button>
+    <img src="{{ donnee.Photo }}" alt="" />
+
+    <p>{{ donnee.Id }} {{ donnee.pseudo }}</p>
+    <p ng-if='donnee.Sexe === true'>Homme</p>
+    <p ng-if='donnee.Sexe === false'>Femme</p>
+    <p> {{ donnee.naissance}}</p>
+    <p> {{ donnee.Pays}}</p>
+    <p>{{ donnee.Activite }} </p>
+    <p> {{ donnee.Resume }}</p>
+    <p>{{ donnee.Coordonnees }} </p>
+    <a class="btn" onclick="Materialize.toast('My name is ' , 4000)" style='display:'>{{ donnee.pseudo }}</a>
+    <button type="button" class="btn btn-sm btn-danger" name="button" ng-click='suppr(donnee)' >Supprimer</button>
+    <hr />
+    </div>
+  </div>
+
+  </li>
+
+  </ul>
+
+
+
+
+
+
+
+
+
+</section>
+
+
+<!--jquery-->
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<!--bootstrap-->
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<!--materialize-->
+<script src="bower_components/materialize/dist/js/materialize.min.js"></script>
+<!--material design-->
+<script src="bower_components/material-design-lite/material.min.js"></script>
+<!--angular-->
+<script src="node_modules/angular/angular.js"></script>
+<!--app.js-->
+<script src="app.js"></script>
+  </body>
+</html>

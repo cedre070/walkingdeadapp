@@ -1,0 +1,67 @@
+[{
+	"Id": 1,
+	"pseudo": "Rick",
+	"Sexe": true,
+	"Photo": "https://www.hypnoseries.tv/photo/186/galerie/Personnages/avatars_saison_6/rickgrimes.jpg",
+	"Activite": "Sheriff",
+	"naissance": "23/12/72",
+	"Cordonnees": "{latitude:37.09024, longitude:-95.71289100000001}",
+	"Pays": "USA",
+	"Resume": "Rick Grimes est shérif d'une petite ville de Géorgie. Blessé en service, il se retrouve dans le coma pendant l'arrivée des zombies. Se réveillant seul, il part à la recherche de sa femme, Lori, et de son fils, Carl, et découvre sur la route ce qui est arrivé dans le monde.Rick est intelligent, calme, juste, un bon ami et père. Mais, il voit la plupart des problèmes soit tout noir soit tout blanc et se réfère à son code moral personnel car il est têtu, ce qui entraîne souvent un mauvais choix de décisions. Il est coéquipier et ami avec Shane depuis longtemps et est habitué, et a sans doute pris pour acquis, à leur camaraderie. Rick est un meneur naturel, quelqu'un vers qui tout le monde se tourne en période de crise, confiant même quand il doute de lui-même. Cependant, son important besoin de faire la bonne chose et de protéger ceux qui ne peuvent le faire eux-mêmes l'éloigne de sa famille, créant davantage de tensions dans son mariage et dans sa relation avec son fils.",
+	"Saison": "[1,2,3,4,5,6,7]"
+}, {
+	"Id": 2,
+	"pseudo": "Carl",
+	"Sexe": true,
+	"Photo": "https://www.hypnoseries.tv/photo/186/galerie/Personnages/avatars_saison_6/carlgrimes.jpg",
+	"Activite": "Kid",
+	"naissance": "23/12/95",
+	"Cordonnees": "{latitude:37.09024, longitude:-95.71289100000001}",
+	"Pays": "USA",
+	"Resume": "Carl Grimes fuit sa petite ville avec sa mère, Lori, et Shane. C'est un petit garçon curieux et intelligent, mais silencieux, luttant dans ce nouveau monde et tentant toujours de se faire à l'idée qu'il pourrait ne jamais revoir son père. Il s'est attaché à Shane, le meilleur ami de son père, qui a toujours pris du temps pour parler avec lui, lui enseigner des choses et lui donner l'impression d'avoir une figure paternel. Carl vénère son père et pense, comme seul un enfant peut le penser, que Rick est indestructible et que lui vouer une confiance aveugle aider à réconforter Lori, qui n'est pas certaine de voir revenir Rick. L'amie la plus proche de Carl est Sophia, fille de Carol, mais également les enfants Morales, avec qui il joue régulièrement, ce qui l'aide à rester dans un univers d'enfants autant que possible. Cependant, il est fréquemment confronté à la réalité de son nouveau monde quand il assiste à une violence choquante et doit dire adieu à des gens auxquels il tient.",
+	"Saison": "[1,2,3,4,5,6,7]"
+}, {
+	"Id": 3,
+	"pseudo": "Daryl",
+	"Sexe": true,
+	"Photo": "https://www.hypnoseries.tv/photo/186/galerie/Personnages/avatars_saison_6/daryldixon.jpg",
+	"Activite": "Renegat",
+	"naissance": "23/12/80",
+	"Cordonnees": "{latitude:37.09024, longitude:-95.71289100000001}",
+	"Pays": "USA",
+	"Resume": "Ancien escroc, Daryl est un péquenaud raciste qui idéalise son grand frère, Merle. Il a un tempéramment malfaisant et ne voit pas d'intérêt à garder les autres, en dehors de lui et son frère, sains et saufs. Mais, Daryl est un adepte de l'arbalète, une arme utile pour tuer discrètement et efficacement les zombies. Il maîtrise l'art de la chasse et du combat rapproché. Mais Daryl souffre de traumatismes liés à son enfance...",
+	"Saison": "[1,2,3,4,5,6,7]"
+}, {
+	"Id": 4,
+	"pseudo": "Maggie",
+	"Sexe": false,
+	"Photo": "https://www.hypnoseries.tv/photo/186/galerie/Personnages/avatars_saison_6/maggiegreene.jpg",
+	"Activite": "Fermière",
+	"naissance": "23/12/84",
+	"Cordonnees": "{latitude:37.09024, longitude:-95.71289100000001}",
+	"Pays": "USA",
+	"Resume": "Maggie est la seconde des trois filles d'Hershel Greene. Elle a 22 ans.Son fiancé était un rôdeur de la grange. Mais afin d'assouvir ses besoins sexuels, elle commence à fréquenter Glenn, dont elle tombe finalement amoureuse.",
+	"Saison": "[1,2,3,4,5,6,7]"
+}, {
+	"Id": 5,
+	"pseudo": "Michonne",
+	"Sexe": false,
+	"Photo": "https://www.hypnoseries.tv/photo/186/galerie/Personnages/avatars_saison_6/michonne.jpg",
+	"Activite": "Femme pirate",
+	"naissance": "23/12/72",
+	"Cordonnees": "{latitude:37.09024, longitude:-95.71289100000001}",
+	"Pays": "USA",
+	"Resume": "Michonne est une jeune femme mystérieuse. Ayant sauvé la vie d'Andréa, elles font route ensemble après que celle-ci ait été séparée de son groupe. Elles arrivent ensemble à Woodbury avant que Michonne ne choisisse de partir, se méfiant du Gouverneur. Après avoir été témoin de l'enlèvement de deux membres du groupe de Rick par Merle, elle rejoint la prison.",
+	"Saison": "[1,2,3,4,5,6,7]"
+}, {
+	"Id": 6,
+	"pseudo": "Carole",
+	"Sexe": false,
+	"Photo": "https://www.hypnoseries.tv/photo/186/galerie/Personnages/avatars_saison_6/carolpeletier.jpg",
+	"Activite": "Femme au foyer",
+	"naissance": "23/12/68",
+	"Cordonnees": "{latitude:37.09024, longitude:-95.71289100000001}",
+	"Pays": "USA",
+	"Resume": "Calme et fragile, Carol Peletier souffre de la violence de son mari Ed. Elle passe la plupart de son temps à tout garder pour elle, embarrassée par sa maltraitance et ne voulant pas encourager la colère d'Ed.Dans le camp de survie, en vivant près de nouvelles personnes, Carol commence à sortir lentement de sa carapace, se rapprochant des autres femmes. En dépit des années de mauvais traitements, Carol reste forte et est dévouée à protéger sa fille, Sophia, et ses nouvelles amies d'Ed ou des morts-vivants..",
+	"Saison": "[1,2,3,4,5,6,7]"
+}]
